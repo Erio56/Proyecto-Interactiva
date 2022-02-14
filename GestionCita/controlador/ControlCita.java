@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author GUSTAVO RAMIREZ
+ * @author Brayan
  */
 public class ControlCita {
 Registro_cita Iu_AgendarCita;
